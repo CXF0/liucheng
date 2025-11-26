@@ -1,8 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="第 1 页" id="65_EyK85I-cYz6UNauMA">
-    <mxGraphModel dx="1426" dy="846" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="846" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" background="none" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="M7St13BqXXYW3tYYofnC-28" edge="1" parent="1" source="M7St13BqXXYW3tYYofnC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="M7St13BqXXYW3tYYofnC-27" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +37,7 @@
         </mxCell>
         <mxCell id="M7St13BqXXYW3tYYofnC-58" connectable="0" parent="M7St13BqXXYW3tYYofnC-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="商家同意" vertex="1">
           <mxGeometry relative="1" x="0.145" y="3" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M7St13BqXXYW3tYYofnC-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;商家售后&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;同意/拒绝&lt;/div&gt;" vertex="1">
